@@ -1,23 +1,28 @@
-### Projeto de Análise de Dados: Leads para Escola de Tecnologia
+## Projeto de Análise de Dados: EdTech Bichinhos da TI ##
 
-**Contexto:** Projeto desenvolvido em conjunto com a consultoria Data Mundo para identificar leads interessados em se matricular em uma escola de tecnologia.
+Contexto: Participação em uma maratona de programação na EdTech Bichinhos da TI com o desafio de otimizar o gerenciamento dos alunos e aumentar a segurança na gestão da informação e dos dados pessoais.
 
-**Objetivo:** Levantar e analisar dados dos alunos interessados, compreendendo seu perfil, interesses e conhecimento em ferramentas tecnológicas.
+Objetivo: Desenvolver uma solução para melhorar o gerenciamento de alunos e a segurança dos dados pessoais.
 
-**Dados Analisados:**
-- Perfil dos alunos (idade, formação, etc.)
-- Interesses em cursos específicos
-- Conhecimento em ferramentas de tecnologia
+Atividades Desenvolvidas:
+- Discovery e Protótipo: Criação de um modelo inicial e plano para a solução.
+- Demonstração e Pitch: Apresentação e defesa da solução para os avaliadores.
+- Liderança Técnica: Coordenação da equipe, mentoria, design de arquitetura e solução de problemas.
 
-**Etapas do Projeto:**
-1. Coleta e anonimização dos dados (conforme LGPD)
-2. Análise exploratória para identificar padrões e interesses
-3. Segmentação dos leads com base no perfil e conhecimento
-4. Desenvolvimento de insights para direcionar campanhas de marketing
+Equipe:
+- Beatriz Cristina Rodrigues dos Santos
+- Danniel de Albuquerque
+- Graziele Aparecida de Godoy Justina
+- João Victor Martins Antunes
+- Juan Lucas Lopes Vieira
+- Juarez Wesley da Silva Monte
+- Lucas Minga Orfei
+- Lucas Torres de Oliveira Dias
+- Willian Ribeiro dos Santos
 
-**Ferramentas:** SQL, Python, Power BI
+Resultados: O projeto conquistou o segundo lugar, destacando-se pela inovação e eficácia na proposta.
 
-**Resultados Esperados:** Compreensão detalhada dos leads para otimizar estratégias de marketing e captação de alunos.
+Proprietário do Conteúdo: Bichinhos da TI Bijet Growth LTDA 54.932.849/0001-22
 
 Competências adquiridas: SQL, Power BI, Metodologias ágeis, Gestão de projetos, Excel
 
