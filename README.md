@@ -1,28 +1,24 @@
-## Projeto de Análise de Dados: EdTech Bichinhos da TI ##
+## PProjeto de Análise de Dados: Escola de Tecnologia ##
 
-Contexto: Participação em uma maratona de programação na EdTech Bichinhos da TI com o desafio de otimizar o gerenciamento dos alunos e aumentar a segurança na gestão da informação e dos dados pessoais.
+Objetivo: Identificar o perfil, interesses e conhecimento de ferramentas de tecnologia dos leads interessados em se matricular em uma escola de tecnologia.
 
-Objetivo: Desenvolver uma solução para melhorar o gerenciamento de alunos e a segurança dos dados pessoais.
+1. Coleta de Dados: Dados foram coletados através de uma pesquisa no Google Forms, contendo informações sobre interesses em tecnologia, conhecimentos prévios e perfil dos alunos.
 
-Atividades Desenvolvidas:
-- Discovery e Protótipo: Criação de um modelo inicial e plano para a solução.
-- Demonstração e Pitch: Apresentação e defesa da solução para os avaliadores.
-- Liderança Técnica: Coordenação da equipe, mentoria, design de arquitetura e solução de problemas.
+2. Limpeza e Preparação dos Dados: Realizamos a limpeza e a organização dos dados para garantir a precisão e a integridade das informações.
 
-Equipe:
-- Beatriz Cristina Rodrigues dos Santos
-- Danniel de Albuquerque
-- Graziele Aparecida de Godoy Justina
-- João Victor Martins Antunes
-- Juan Lucas Lopes Vieira
-- Juarez Wesley da Silva Monte
-- Lucas Minga Orfei
-- Lucas Torres de Oliveira Dias
-- Willian Ribeiro dos Santos
+3. Análise de Perfil: Analisamos o perfil dos leads para identificar características demográficas e acadêmicas comuns.
 
-Resultados: O projeto conquistou o segundo lugar, destacando-se pela inovação e eficácia na proposta.
+4. Avaliação de Interesses: Identificamos os principais interesses em áreas específicas de tecnologia com base nas respostas dos alunos.
 
-Proprietário do Conteúdo: Bichinhos da TI Bijet Growth LTDA 54.932.849/0001-22
+5. Análise de Conhecimento: Avaliamos o nível de conhecimento dos leads em diferentes ferramentas e tecnologias para entender seu ponto de partida.
+
+6. Identificação de Tendências: Detectamos padrões e tendências nos dados para auxiliar na criação de estratégias direcionadas para cada grupo de interesse.
+
+7. Recomendações: Elaboramos recomendações para personalizar a abordagem de marketing e aprimorar a oferta educacional com base nos insights obtidos.
+
+8. Relatórios: Desenvolvemos relatórios detalhados com visualizações para comunicar os resultados e apoiar a tomada de decisão.
+
+Resultados: Esse projeto visa utilizar dados dos leads para entender melhor seu perfil e interesses, ajudando a escola a adaptar suas estratégias e ofertas educacionais de forma mais eficaz.
 
 Competências adquiridas: SQL, Power BI, Metodologias ágeis, Gestão de projetos, Excel
 
