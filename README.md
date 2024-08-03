@@ -2,6 +2,8 @@
 
 Objetivo: Identificar o perfil, interesses e conhecimento de ferramentas de tecnologia dos leads interessados em se matricular em uma escola de tecnologia.
 
+Dados analizados:
+
 1. Coleta de Dados: Dados foram coletados através de uma pesquisa no Google Forms, contendo informações sobre interesses em tecnologia, conhecimentos prévios e perfil dos alunos.
 
 2. Limpeza e Preparação dos Dados: Realizamos a limpeza e a organização dos dados para garantir a precisão e a integridade das informações.
@@ -17,6 +19,14 @@ Objetivo: Identificar o perfil, interesses e conhecimento de ferramentas de tecn
 7. Recomendações: Elaboramos recomendações para personalizar a abordagem de marketing e aprimorar a oferta educacional com base nos insights obtidos.
 
 8. Relatórios: Desenvolvemos relatórios detalhados com visualizações para comunicar os resultados e apoiar a tomada de decisão.
+
+Etapas do Projeto:
+
+Coleta e limpeza de dados
+Análise exploratória para identificar padrões
+Criação de métricas e KPIs
+Desenvolvimento de dashboard em Power BI/Tableau
+Geração de insights para melhorias operacionais
 
 Resultados: Esse projeto visa utilizar dados dos leads para entender melhor seu perfil e interesses, ajudando a escola a adaptar suas estratégias e ofertas educacionais de forma mais eficaz.
 
