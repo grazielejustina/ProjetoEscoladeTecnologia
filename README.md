@@ -1,4 +1,4 @@
-## Projeto de Análise de Dados: Escola de Tecnologia ##
+## Projeto de Análise de Dados: Empresa do ramo de Edtech 
 
 Objetivo: Identificar o perfil, interesses e conhecimento de ferramentas de tecnologia dos leads interessados em se matricular em uma escola de tecnologia.
 
